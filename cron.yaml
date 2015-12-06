@@ -2,5 +2,5 @@ cron:
 
 - description: test email
   url: /
-  schedule: every monday 09:00
+  schedule: every sunday 18:00
   timezone: America/New_York
